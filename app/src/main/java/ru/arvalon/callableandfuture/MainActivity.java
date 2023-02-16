@@ -2,8 +2,10 @@ package ru.arvalon.callableandfuture;
 
 import android.os.Handler;
 import android.os.SystemClock;
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
